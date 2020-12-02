@@ -3,7 +3,7 @@
 <!--
 **Keya01-star/Keya01-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![](KEYA.gif)
+![](keyagif.gif)
 
 - 🔭 Student at Charusat University
 
