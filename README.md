@@ -15,5 +15,6 @@
 
 - 😁 Fun fact: Always ready for playing Table tennis🏓
 
-#Languages:
- C , C++ , JAVA , DART , HTML , CSS 
+# Languages:
+
+  C , C++ , JAVA , DART , HTML , CSS 
