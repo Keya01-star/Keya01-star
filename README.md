@@ -6,13 +6,6 @@
 
 - 🔭 Student at Charusat University
 
-- 👁  Working : Flutter | Android 
-
-- 😊 Learning : ML | Web development
-
-- 🧐 I am trying to improve problem solving skills
-
-- 😁 Fun fact: Always ready for playing Table tennis🏓
 
 ### Languages:
 
