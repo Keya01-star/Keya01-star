@@ -4,7 +4,7 @@
 **Keya01-star/Keya01-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center">Hi 👋, I'm Keya Bhavsar😎</h1>
 <h3 align="center">A curious developer🙄</h3>
-<img src="mygitprofile.JPG" alt="Myimage" height="480" width="1000" />
+<img src="myprofile.JPG" alt="Myimage" height="450" width="950" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keya01-star&label=Profile%20views&color=0e75b6&style=flat" alt="keya01-star" /> </p>
 
 <h3 align="left">Connect with me:</h3>
